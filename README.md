@@ -13,10 +13,10 @@
 <body>
     <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
+    <img src="path/to/your/image.jpg" alt="Description of the image">
    
 </body>
-</html>
-           
+</html>           
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,7 +24,5 @@
 </head>
 <body>
     <h1>Contact</h1>
-    <p>You can reach me at</p> <a href="email.html">danzkeizlergnets@gmail.com</a>
-        
-</body>
-</html>
+    <p>You can reach me at</p> <a href="email.html">danzkeizlergnets@gmail.com</a>       
+
