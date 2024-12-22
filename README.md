@@ -14,11 +14,17 @@
 <body>
     <h2>📷Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
-    <img src="IMG_20241111_221823.jpg" alt="Description" width="200" height="150">
-        <img src="2caa2c0c5f64970fd59f3cd829c157de.jpg" alt="Description" width="200" height="150">
-  
-</body>
-</html>           
+    <img src="IMG20241110134939.jpg" alt="Description" width="170" height="180">
+    <img src="IMG20241110115505.jpg" alt="Description" width="190" height="180">
+    <img src="IMG20241111104251.jpg" alt="Description" width="190" height="180">
+
+</head>
+    <body>
+    <h2>🛵Roadtrips</h2>
+     <p>Good company in a journey makes the way seem shorter..</p>
+     <img src="IMG20241110115749.jpg" alt="Description" width="230" height="180">
+    <img src="IMG20241111092108.jpg" alt="Description" width="230" height="180">
+               
 <!DOCTYPE html>
 <html>
 <head>
