@@ -14,6 +14,7 @@
     <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
     <img src="path/to/your/image.jpg" alt="Description of the image">
+    <img src="my_image.jpg" alt="Description" width="200" height="150">
    
 </body>
 </html>           
