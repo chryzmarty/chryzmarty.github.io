@@ -7,8 +7,6 @@
 <html>
   <head>
     Chryz Marty Guerrero 
-    <!DOCTYPE html>
-<html>
 <head>
     <h1>My Hobbies</h1>
 
