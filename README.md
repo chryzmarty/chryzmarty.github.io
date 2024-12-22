@@ -14,7 +14,8 @@
     <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
     <img src="IMG_20241111_221823.jpg" alt="Description" width="200" height="150">
-   
+        <img src="2caa2c0c5f64970fd59f3cd829c157de.jpg" alt="Description" width="200" height="150">
+  
 </body>
 </html>           
 <!DOCTYPE html>
