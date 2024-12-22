@@ -13,7 +13,7 @@
 <body>
     <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
-    <a href="gallery.html">View Gallery</a>
+    ![Alt text for the image](screen.jpg)
 </body>
 </html>
            
