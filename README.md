@@ -1,10 +1,9 @@
 <section>
         <img src="images/profile.jpg" alt
-        <p>Welcome to my hobbies and interests! I enjoy exploring the world through photography, roadtrips, and reading.</p>
+        <p><strong>Welcome to my hobbies and interests! I enjoy exploring the world through photography, roadtrips, and reading.<strong/></p>
     </section>
 
 <!DOCTYPE html>
-<html>
   <head>
     Chryz Marty Guerrero 
 <head>
@@ -12,7 +11,7 @@
 
 </head>
 <body>
-    <h3>Photography</h1>
+    <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
     <a href="gallery.html">View Gallery</a>
 </body>
