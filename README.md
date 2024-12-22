@@ -13,7 +13,7 @@
 <body>
     <h2>Photography</h2>
     <p>I love capturing the beauty of the world through my lens.</p>
-    ![Alt text for the image](IMG/20241111_221823.jpg)
+   
 </body>
 </html>
            
@@ -24,6 +24,7 @@
 </head>
 <body>
     <h1>Contact</h1>
-    <p>You can reach me at [email protected]</p>
+    <p>You can reach me at</p> <a href="email.html">danzkeizlergnets@gmail.com</a>
+        
 </body>
 </html>
